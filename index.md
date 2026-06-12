@@ -35,17 +35,17 @@ Sem 1            Sem 2         Sem 3         Sem 4
 | Course | Role |
 |---|---|
 | **[COMPSCI 571D](https://cs.duke.edu/courses/probabilistic-machine-learning-0)** Probabilistic Machine Learning *or* **[COMPSCI 526](https://cs.duke.edu/courses/data-science)** Data Science (Pei) | Foundation — pick one. 571D bridges directly from ECON 608/703 econometrics; 526 is the applied data spine for empirical / data-mining work |
-| **[COMPSCI 671D](https://cs.duke.edu/courses/theory-and-algorithms-machine-learning)** Theory & Algorithms for ML | interpretability/causality, MSEC-aligned |
 | **[COMPSCI 572](https://cs.duke.edu/courses/introduction-natural-language-processing)** Intro to NLP *or* **[COMPSCI 527](https://cs.duke.edu/courses/introduction-computer-vision)** Computer Vision *or* **[COMPSCI 574](https://cs.duke.edu/courses/deep-learning-fundamentals)** Deep Learning Fundamentals | Domain elective; pick by application interest (language, vision, or DL foundations) |
+| **[COMPSCI 671D](https://cs.duke.edu/courses/theory-and-algorithms-machine-learning)** Theory & Algorithms for ML | Interpretability/causality, MSEC-aligned. **Fall only** — schedule in a fall semester. |
 | **[COMPSCI 675D](https://cs.duke.edu/courses/introduction-deep-learning-0)** Intro to Deep Learning *or* **[COMPSCI 676](https://cs.duke.edu/courses/advanced-topics-deep-learning)** Advanced Topics in Deep Learning (generative models) *(capstone candidate)* | Project-heavy capstone. 675D for students new to deep learning; 676 for generative models / advanced topics if 574 or 675D was taken earlier |
 
 ```
-Sem 1            Sem 2         Sem 3              Sem 4
-─────            ─────         ─────              ─────
-571D / 526  -->  671D     -->  572 / 527 / 574 -->  675D / 676*
+Sem 1            Sem 2                Sem 3        Sem 4
+─────            ─────                ─────        ─────
+571D / 526  -->  572 / 527 / 574  --> 671D    -->  675D / 676*
 ```
 
-*Notes: 571D and 526 are co-listed as same-level entry points — students choose based on whether they want probabilistic foundations or applied data work. Students with strong DL background can take 676 directly as the capstone; otherwise 675D first, then 676 in the elective slot. [COMPSCI 565](https://cs.duke.edu/courses/modern-optimization-statistical-learning) (Modern Optimization for Statistical Learning) and [COMPSCI 570](https://cs.duke.edu/courses/artificial-intelligence-1) (Artificial Intelligence) are recommended substitutes for the elective slot for theory-leaning or breadth-seeking students.*
+*Notes: 671D is offered in fall only, so it sits in Sem 3 (fall) for fall-start students; spring-start students should plan accordingly. 571D and 526 are co-listed as same-level entry points — students choose based on whether they want probabilistic foundations or applied data work. Students with strong DL background can take 676 directly as the capstone; otherwise 675D first, then 676 in a later slot. [COMPSCI 565](https://cs.duke.edu/courses/modern-optimization-statistical-learning) (Modern Optimization for Statistical Learning) and [COMPSCI 570](https://cs.duke.edu/courses/artificial-intelligence-1) (Artificial Intelligence) are recommended substitutes for the domain-elective slot for theory-leaning or breadth-seeking students.*
 
 ---
 
