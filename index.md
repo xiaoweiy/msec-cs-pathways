@@ -13,7 +13,7 @@ The MSEC degree requires **at least 12 CS credits at the 500 level or higher** (
 
 | Course | Role |
 |---|---|
-| **COMPSCI 532** Design & Analysis of Algorithms | Foundation; required prereq mindset for the rest |
+| **COMPSCI 531 or 532** Design & Analysis of Algorithms | Foundation; required prereq mindset for the rest |
 | **COMPSCI 535** Algorithmic Game Theory | The signature MSEC course — auctions, mechanism design, equilibrium computation |
 | **COMPSCI 632** Approximation Algorithms *or* **630** Randomized Algorithms | Theory depth; pick by faculty fit (Munagala/Panigrahi) |
 | **COMPSCI 638** Graph Algorithms *(capstone candidate)* | Project-friendly; matches network/market problems |
