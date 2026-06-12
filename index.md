@@ -85,17 +85,3 @@ Sem 1         Sem 2         Sem 3         Sem 4
 
 ---
 
-## Conversion / publishing cheatsheet
-
-```bash
-# To PDF (requires pandoc + a LaTeX engine, e.g. basictex)
-pandoc MSEC-CS-Pathways.md -o MSEC-CS-Pathways.pdf
-
-# To Word (.docx) for email attachment
-pandoc MSEC-CS-Pathways.md -o MSEC-CS-Pathways.docx
-
-# To standalone HTML with styling
-pandoc MSEC-CS-Pathways.md -s --css=style.css -o MSEC-CS-Pathways.html
-```
-
-For continuous web hosting, push this file to a GitHub repo with GitHub Pages enabled (renders Markdown automatically), or import into Notion / GitBook for a polished public-facing page.
