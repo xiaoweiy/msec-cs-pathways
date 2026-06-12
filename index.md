@@ -35,7 +35,7 @@ Sem 1            Sem 2         Sem 3         Sem 4
 | Course | Role |
 |---|---|
 | **[COMPSCI 571D](https://cs.duke.edu/courses/probabilistic-machine-learning-0)** Probabilistic Machine Learning *or* **[COMPSCI 526](https://cs.duke.edu/courses/data-science)** Data Science (Pei) | Foundation — pick one. 571D bridges directly from ECON 608/703 econometrics; 526 is the applied data spine for empirical / data-mining work |
-| **[COMPSCI 671D](https://cs.duke.edu/courses/theory-and-algorithms-machine-learning)** Theory & Algorithms for ML | Rudin's course — interpretability/causality, MSEC-aligned |
+| **[COMPSCI 671D](https://cs.duke.edu/courses/theory-and-algorithms-machine-learning)** Theory & Algorithms for ML | interpretability/causality, MSEC-aligned |
 | **[COMPSCI 572](https://cs.duke.edu/courses/introduction-natural-language-processing)** Intro to NLP *or* **[COMPSCI 527](https://cs.duke.edu/courses/introduction-computer-vision)** Computer Vision *or* **[COMPSCI 574](https://cs.duke.edu/courses/deep-learning-fundamentals)** Deep Learning Fundamentals | Domain elective; pick by application interest (language, vision, or DL foundations) |
 | **[COMPSCI 675D](https://cs.duke.edu/courses/introduction-deep-learning-0)** Intro to Deep Learning *or* **[COMPSCI 676](https://cs.duke.edu/courses/advanced-topics-deep-learning)** Advanced Topics in Deep Learning (generative models) *(capstone candidate)* | Project-heavy capstone. 675D for students new to deep learning; 676 for generative models / advanced topics if 574 or 675D was taken earlier |
 
