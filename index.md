@@ -75,7 +75,7 @@ Sem 1         Sem 2         Sem 3              Sem 4
 | **[COMPSCI 582](https://cs.duke.edu/courses/cryptography)** Cryptography | Foundation; prereq feel for 584 |
 | **[COMPSCI 584](https://cs.duke.edu/courses/foundations-blockchains)** Foundations of Blockchains | Strongest MSEC overlap — consensus, incentives, DeFi |
 | **[COMPSCI 581](https://cs.duke.edu/courses/computer-security-1)** Computer Security | Breadth course |
-| **[COMPSCI 586](https://cs.duke.edu/courses/human-centered-security-and-privacy)** Human-Centered Security & Privacy *(capstone candidate)* | Project-oriented; pairs with Machanavajjhala's privacy/fairness work |
+| **[COMPSCI 586](https://cs.duke.edu/courses/human-centered-security-and-privacy)** Human-Centered Security & Privacy *(capstone candidate)* | Project-oriented. |
 
 ```
 Sem 1         Sem 2         Sem 3         Sem 4
